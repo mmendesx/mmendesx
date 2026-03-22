@@ -1,11 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Matheus%20Mendes&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%C2%B7%20JVM%20%26%20Platform%20Engineering%20%C2%B7%20PagBank&descAlignY=58&descSize=15&descColor=a78bfa"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=Backend+Engineering+%E2%80%A2+Clean+Architecture+%E2%80%A2+Distributed+Systems;Java+%7C+Kotlin+%7C+Spring+%7C+Kafka+%7C+TypeScript;AI+Engineering+%26+LLM+Orchestration;Domain-Driven+Design+%E2%80%A2+Hexagonal+Architecture+%E2%80%A2+SOLID)](https://git.io/typing-svg)
-
-<br/>
-
 <a href="mailto:mmendes@icto.io">
   <img src="https://img.shields.io/badge/mmendes%40icto.io-1a1a2e?style=for-the-badge&logo=protonmail&logoColor=a78bfa"/>
 </a>
@@ -82,21 +76,15 @@ Currently deep-diving into the full AI stack — from theory to production syste
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mmendesx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=mmendesx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
   &nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmendesx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmendesx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img width="68%" src="https://streak-stats.demolab.com?user=mmendesx&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mmendesx&theme=tokyonight&no-frame=true&margin-w=6&column=7"/>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mmendesx&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed"/>
+  <img width="44%" src="https://streak-stats.demolab.com?user=mmendesx&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  &nbsp;
+  <img width="53%" src="https://github-readme-activity-graph.vercel.app/graph?username=mmendesx&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed"/>
 </div>
 
 ---
