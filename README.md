@@ -1,33 +1,106 @@
-## Hi there :wave: , I'm Matheus Mendes :technologist: and I work as a Senior Backend Developer at Pagbank.
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Matheus%20Mendes&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%C2%B7%20JVM%20%26%20Platform%20Engineering%20%C2%B7%20PagBank&descAlignY=58&descSize=15&descColor=a78bfa"/>
 
-### I'm here to develop and learn about Mobile Applications and Backend Development, and I'm very excited to share everything with you.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=Backend+Engineering+%E2%80%A2+Clean+Architecture+%E2%80%A2+Distributed+Systems;Java+%7C+Kotlin+%7C+Spring+%7C+Kafka+%7C+TypeScript;AI+Engineering+%26+LLM+Orchestration;Domain-Driven+Design+%E2%80%A2+Hexagonal+Architecture+%E2%80%A2+SOLID)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working at Pagbank.
-- 🌱 I’m currently learning Kotlin for Mobile Application
-- 👯 I’m looking to collaborate on Fullstack technologies.
-- 💬 Ask me about anything you want!
+<a href="mailto:mmendes@icto.io">
+  <img src="https://img.shields.io/badge/mmendes%40icto.io-1a1a2e?style=for-the-badge&logo=protonmail&logoColor=a78bfa"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/matheushenriquemendes" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=mmendesx&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 
-  <a href = "mailto:mmendes@icto.io"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheushenriquemendes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
 
+---
 
-<hr>
+## 👨‍💻 About Me
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="20" width="20" /> Techs
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40"/>    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="40"/>
+I'm a **Senior Software Engineer** at **[PagBank](https://pagbank.com.br)** — one of Brazil's leading fintech companies — designing and building high-throughput, fault-tolerant backend systems that power millions of financial transactions daily.
+
+- 🏦 **Platform Engineering** — scalable microservices, event-driven architectures, and distributed systems in production
+- ☕ Core expertise in **Java** and **Kotlin** for JVM-based backend platforms
+- 📱 Experience with mobile development using **Kotlin** (Android) and **Swift** (iOS)
+- 🤖 Actively studying **Artificial Intelligence** — agents, RAG pipelines, LLM orchestration, model behavior, evaluation, and AI system design
+- 🏛️ Strong background in **software architecture**: Hexagonal, Clean, DDD, MVVM, MVC, Onion
+- 📐 Advocate for engineering best practices: **SOLID · KISS · DRY · YAGNI · TDD · BDD**
+
+---
+
+## 🛠️ Tech Stack
+
+### ☕ Backend & JVM
+[![Skills](https://skillicons.dev/icons?i=java,kotlin,spring,kafka,gradle,maven,hibernate&theme=dark&perline=8)](https://skillicons.dev)
+
+### 🌐 Frontend & Mobile
+[![Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,vite,html,css,swift&theme=dark&perline=9)](https://skillicons.dev)
+
+### ⚙️ Infrastructure & DevOps
+[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,bash,jenkins&theme=dark&perline=8)](https://skillicons.dev)
+
+### 🗄️ Databases & Search
+[![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,dynamodb,elasticsearch&theme=dark&perline=8)](https://skillicons.dev)
+
+---
+
+## 🏛️ Architecture & Engineering Principles
+
+<div align="center">
+
+| 🏗️ Architecture Styles | 🔁 Design Patterns | 📐 Engineering Principles |
+|:---|:---|:---|
+| Hexagonal Architecture | Adapters & Ports | SOLID |
+| Domain-Driven Design (DDD) | Event-Driven / CQRS | KISS |
+| Clean Architecture | Saga & Outbox Pattern | DRY |
+| MVC · MVVM | Repository & Factory | YAGNI |
+| Onion Architecture | Microservices Patterns | TDD · BDD |
+
 </div>
 
+---
 
+## 🤖 AI Engineering
+
+Currently deep-diving into the full AI stack — from theory to production systems:
+
+```
+🧠  LLM Agents         →  Autonomous agents · Multi-agent orchestration · Tool-use patterns
+📚  RAG Pipelines      →  Retrieval-Augmented Generation · Vector DBs · Chunking · Reranking
+🎯  Prompt Engineering →  Skills · Behaviors · Chain-of-thought · Structured outputs
+🔬  Models & Types     →  Foundation models · Fine-tuning · Quantization · Evaluation & evals
+⚙️  AI System Design  →  AI-integrated backends · MLOps · Agent frameworks · Observability
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mmendesx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+  &nbsp;
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmendesx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img width="68%" src="https://streak-stats.demolab.com?user=mmendesx&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mmendesx&theme=tokyonight&no-frame=true&margin-w=6&column=7"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mmendesx&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed"/>
+</div>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
+</div>
