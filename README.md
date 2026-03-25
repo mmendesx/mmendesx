@@ -20,7 +20,7 @@ I'm a **Senior Software Engineer** at **[PagBank](https://pagbank.com.br)** — 
 
 - 🏦 **Platform Engineering** — scalable microservices, event-driven architectures, and distributed systems in production
 - ☕ Core expertise in **Java** and **Kotlin** for JVM-based backend platforms
-- 📱 Experience with mobile development using **Kotlin** (Android) and **Swift** (iOS)
+- 📱 Experience with mobile development using **Kotlin** (Android)
 - 🤖 Actively studying **Artificial Intelligence** — agents, RAG pipelines, LLM orchestration, model behavior, evaluation, and AI system design
 - 🏛️ Strong background in **software architecture**: Hexagonal, Clean, DDD, MVVM, MVC, Onion
 - 📐 Advocate for engineering best practices: **SOLID · KISS · DRY · YAGNI · TDD · BDD**
@@ -33,13 +33,13 @@ I'm a **Senior Software Engineer** at **[PagBank](https://pagbank.com.br)** — 
 [![Skills](https://skillicons.dev/icons?i=java,kotlin,spring,kafka,gradle,maven,hibernate&theme=dark&perline=8)](https://skillicons.dev)
 
 ### 🌐 Frontend & Mobile
-[![Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,vite,html,css,swift&theme=dark&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,vite,html,css,flutter&theme=dark&perline=9)](https://skillicons.dev)
 
 ### ⚙️ Infrastructure & DevOps
 [![Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,bash,jenkins&theme=dark&perline=8)](https://skillicons.dev)
 
 ### 🗄️ Databases & Search
-[![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,dynamodb,elasticsearch&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=postgres,orable,mysql,mongodb,redis,dynamodb,elasticsearch&theme=dark&perline=8)](https://skillicons.dev)
 
 ---
 
