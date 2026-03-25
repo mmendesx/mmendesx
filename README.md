@@ -39,7 +39,7 @@ I'm a **Senior Software Engineer** at **[PagBank](https://pagbank.com.br)** — 
 [![Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,bash,jenkins&theme=dark&perline=8)](https://skillicons.dev)
 
 ### 🗄️ Databases & Search
-[![Skills](https://skillicons.dev/icons?i=postgres,orable,mysql,mongodb,redis,dynamodb,elasticsearch&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,dynamodb,elasticsearch&theme=dark&perline=8)](https://skillicons.dev)
 
 ---
 
