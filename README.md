@@ -88,7 +88,3 @@ Currently deep-diving into the full AI stack — from theory to production syste
 </div>
 
 ---
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
-</div>
