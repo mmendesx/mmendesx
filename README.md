@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** with 5+ years of experience, contributing at **[PagBank](https://pagbank.com.br)** — one of Brazil's leading fintech companies — designing and building high-throughput, fault-tolerant backend systems that power millions of financial transactions daily.
+I'm a **Software Engineer** with 5+ years of experience, designing and building high-throughput, fault-tolerant backend systems.
 
 - 🏦 **Platform Engineering** — scalable microservices, event-driven architectures, and distributed systems in production
 - ☕ Core expertise in **Java** and **Kotlin** for JVM-based backend platforms
