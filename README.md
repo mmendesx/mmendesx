@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=mmendesx&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 
 </div>
 
